@@ -1,0 +1,4 @@
+#Sun May 01 07:35:47 EDT 2022
+base.0=D\:\\wsCubetutorials\\project_gtu_new\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
